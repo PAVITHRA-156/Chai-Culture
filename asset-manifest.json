@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/Chai-Culture/static/css/main.92767e28.css",
-    "main.js": "/Chai-Culture/static/js/main.0c69c2de.js",
+    "main.js": "/Chai-Culture/static/js/main.c6077f95.js",
     "static/js/453.2ca86739.chunk.js": "/Chai-Culture/static/js/453.2ca86739.chunk.js",
+    "static/media/chai1.jpg": "/Chai-Culture/static/media/chai1.045bfa044fea87feb4ae.jpg",
+    "static/media/chai2.jpg": "/Chai-Culture/static/media/chai2.50ad9c0a1f0a14ad94f7.jpg",
+    "static/media/chai3.jpg": "/Chai-Culture/static/media/chai3.356f1340d08262b48791.jpg",
     "static/media/logo.svg": "/Chai-Culture/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Chai-Culture/index.html",
     "main.92767e28.css.map": "/Chai-Culture/static/css/main.92767e28.css.map",
-    "main.0c69c2de.js.map": "/Chai-Culture/static/js/main.0c69c2de.js.map",
+    "main.c6077f95.js.map": "/Chai-Culture/static/js/main.c6077f95.js.map",
     "453.2ca86739.chunk.js.map": "/Chai-Culture/static/js/453.2ca86739.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92767e28.css",
-    "static/js/main.0c69c2de.js"
+    "static/js/main.c6077f95.js"
   ]
 }
